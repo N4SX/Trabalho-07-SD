@@ -1,0 +1,5 @@
+Method,Name,Error,Occurrences
+GET,/api/customer/owners/3,HTTPError('405 Client Error: Method Not Allowed for url: /api/customer/owners/3'),1
+GET,/api/customer/owners,HTTPError('405 Client Error: Method Not Allowed for url: /api/customer/owners'),87
+GET,/api/customer/owners/7,HTTPError('405 Client Error: Method Not Allowed for url: /api/customer/owners/7'),1
+GET,/api/customer/owners/6,HTTPError('405 Client Error: Method Not Allowed for url: /api/customer/owners/6'),1
