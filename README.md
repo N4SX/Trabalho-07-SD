@@ -1,3 +1,5 @@
+🎥 [Demonstração do sistema e monitoramento (YouTube)](https://www.youtube.com/watch?v=g0wJRjGnS8A)
+
 # 📈 Avaliação de Desempenho do Spring PetClinic (Microservices) com Locust
 
 Este repositório contém os artefatos para a avaliação de desempenho da aplicação Spring PetClinic (versão microsserviços), conforme solicitado no Trabalho 07.
