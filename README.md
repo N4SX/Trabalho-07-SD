@@ -99,4 +99,3 @@ O arquivo `locustfile.py` deste repositório já está configurado com os caminh
     * `cenario_a/`: Contém os 10 arquivos CSV do Cenário A.
     * `cenario_b/`: Contém os 10 arquivos CSV do Cenário B.
     * `cenario_c/`: Contém os 10 arquivos CSV do Cenário C.
-    * `Tabela_Resumo.xlsx`: Planilha com a média compilada dos 10 testes de cada cenário, usada como base para as conclusões.
